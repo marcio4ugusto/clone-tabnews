@@ -1,3 +1,3 @@
 export default function Home () {
-    return <h1>Hello Tabnews!</h1>;
+    return <h1>Hey, I love you!</h1>;
 }
